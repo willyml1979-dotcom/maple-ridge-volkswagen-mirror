@@ -1,6 +1,6 @@
 {
   "dealership": "Maple Ridge Volkswagen",
-  "generated_at": "2026-09-26T09:16:58",
+  "generated_at": "2026-10-08T14:40:45",
   "vehicle_count": 186,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -19,7 +19,9 @@
       "year": 2006,
       "make": "Chevrolet",
       "model": "Corvette",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2007 Honda Fit ",
@@ -35,7 +37,9 @@
       "year": 2007,
       "make": "Honda",
       "model": "Fit",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2015 Honda Civic Sedan ",
@@ -51,7 +55,9 @@
       "year": 2015,
       "make": "Honda",
       "model": "Civic Sedan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Honda CR-V ",
@@ -66,7 +72,9 @@
       "year": 2017,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Honda Civic Sedan ",
@@ -82,7 +90,9 @@
       "year": 2017,
       "make": "Honda",
       "model": "Civic Sedan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Toyota 4Runner ",
@@ -98,7 +108,9 @@
       "year": 2017,
       "make": "Toyota",
       "model": "4Runner",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Volkswagen Golf SportWagen | Backup Camera | Cruise Control | Bluetooth | Power Steeringin Maple Ridge",
@@ -113,7 +125,9 @@
       "year": 2017,
       "make": "Volkswagen",
       "model": "Golf SportWagen",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2017 Volkswagen Golf SportWagen ",
@@ -129,7 +143,9 @@
       "year": 2017,
       "make": "Volkswagen",
       "model": "Golf SportWagen",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Acura RDX ",
@@ -145,7 +161,9 @@
       "year": 2018,
       "make": "Acura",
       "model": "RDX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Toyota 4Runner ",
@@ -160,7 +178,9 @@
       "year": 2018,
       "make": "Toyota",
       "model": "4Runner",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Toyota Sienna ",
@@ -176,13 +196,16 @@
       "year": 2018,
       "make": "Toyota",
       "model": "Sienna",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Volkswagen Tiguan Trendlinein Maple Ridge",
       "vin": "3VV0B7AX7JM104564",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendlinein Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/e7546afdc44b.html",
       "source_url": "https://www.mapleridge-vw.ca/used/2018-Volkswagen-Tiguan-id14322200.html",
       "dealer_url": "https://www.mapleridge-vw.ca/used/2018-Volkswagen-Tiguan-id14322200.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -190,8 +213,10 @@
       "odometer_km": 96054,
       "year": 2018,
       "make": "Volkswagen",
-      "model": "Tiguan Trendlinein Maple Ridge",
-      "condition": "used"
+      "model": "Tiguan",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2018 Volkswagen Tiguan ",
@@ -207,7 +232,9 @@
       "year": 2018,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Honda Fit ",
@@ -223,7 +250,9 @@
       "year": 2019,
       "make": "Honda",
       "model": "Fit",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Hyundai Santa Fe ",
@@ -239,7 +268,9 @@
       "year": 2019,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Lexus RX ",
@@ -255,7 +286,9 @@
       "year": 2019,
       "make": "Lexus",
       "model": "RX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Frontier ",
@@ -271,7 +304,9 @@
       "year": 2019,
       "make": "Nissan",
       "model": "Frontier",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Nissan Qashqai ",
@@ -287,7 +322,9 @@
       "year": 2019,
       "make": "Nissan",
       "model": "Qashqai",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Toyota Corolla Hatchback ",
@@ -303,13 +340,16 @@
       "year": 2019,
       "make": "Toyota",
       "model": "Corolla Hatchback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Volkswagen Jetta Highlinein Maple Ridge",
       "vin": "3VWE57BU3KM265170",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Highlinein Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/6ed91df89b6e.html",
       "source_url": "https://www.mapleridge-vw.ca/used/2019-Volkswagen-Jetta-id14393811.html",
       "dealer_url": "https://www.mapleridge-vw.ca/used/2019-Volkswagen-Jetta-id14393811.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -317,8 +357,10 @@
       "odometer_km": 107201,
       "year": 2019,
       "make": "Volkswagen",
-      "model": "Jetta Highlinein Maple Ridge",
-      "condition": "used"
+      "model": "Jetta",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2019 Volkswagen Jetta ",
@@ -334,7 +376,9 @@
       "year": 2019,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Honda CR-V ",
@@ -350,7 +394,9 @@
       "year": 2020,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Hyundai Accent ",
@@ -366,7 +412,9 @@
       "year": 2020,
       "make": "Hyundai",
       "model": "Accent",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Kia Optima ",
@@ -382,7 +430,9 @@
       "year": 2020,
       "make": "Kia",
       "model": "Optima",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 RAM 1500 ",
@@ -398,7 +448,9 @@
       "year": 2020,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Volkswagen Golf GTI | Cruise Control | Backup Camera | Smart Device Integration | Bluetoothin Maple Ridge",
@@ -413,7 +465,9 @@
       "year": 2020,
       "make": "Volkswagen",
       "model": "Golf GTI",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Volkswagen Golf GTI ",
@@ -429,13 +483,16 @@
       "year": 2020,
       "make": "Volkswagen",
       "model": "Golf GTI",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Volkswagen Passat Execline | Heated Seating | Safety Features | Rare Spec |in Maple Ridge",
       "vin": "1VWEA7A32LC002885",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Execline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/85b99525544d.html",
       "source_url": "https://www.mapleridge-vw.ca/used/2020-Volkswagen-Passat-id14428148.html",
       "dealer_url": "https://www.mapleridge-vw.ca/used/2020-Volkswagen-Passat-id14428148.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -443,8 +500,10 @@
       "odometer_km": 121055,
       "year": 2020,
       "make": "Volkswagen",
-      "model": "Passat Execline",
-      "condition": "used"
+      "model": "Passat",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2020 Volkswagen Passat ",
@@ -460,7 +519,9 @@
       "year": 2020,
       "make": "Volkswagen",
       "model": "Passat",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Wrangler ",
@@ -476,7 +537,9 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Mazda CX-30 ",
@@ -492,7 +555,9 @@
       "year": 2021,
       "make": "Mazda",
       "model": "CX-30",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Toyota Tacoma ",
@@ -508,13 +573,16 @@
       "year": 2021,
       "make": "Toyota",
       "model": "Tacoma",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Volkswagen Atlas Cross Sport Highline | Backup Camera | Blind Spot Assist | Heated Seatsin Maple Ridge",
       "vin": "1V2BC2CA1MC237082",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Highline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/9aec83d29645.html",
       "source_url": "https://www.mapleridge-vw.ca/used/2021-Volkswagen-Atlas_Cross_Sport-id14167395.html",
       "dealer_url": "https://www.mapleridge-vw.ca/used/2021-Volkswagen-Atlas_Cross_Sport-id14167395.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -522,8 +590,10 @@
       "odometer_km": 80612,
       "year": 2021,
       "make": "Volkswagen",
-      "model": "Atlas Cross Sport Highline",
-      "condition": "used"
+      "model": "Atlas Cross Sport",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Volkswagen Atlas Cross Sport ",
@@ -539,13 +609,16 @@
       "year": 2021,
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Volkswagen Jetta Highlinein Maple Ridge",
       "vin": "3VWE57BU9MM046913",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Highlinein Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/67b20a0b66b2.html",
       "source_url": "https://www.mapleridge-vw.ca/used/2021-Volkswagen-Jetta-id14415080.html",
       "dealer_url": "https://www.mapleridge-vw.ca/used/2021-Volkswagen-Jetta-id14415080.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -553,8 +626,10 @@
       "odometer_km": 101334,
       "year": 2021,
       "make": "Volkswagen",
-      "model": "Jetta Highlinein Maple Ridge",
-      "condition": "used"
+      "model": "Jetta",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2021 Volkswagen Jetta ",
@@ -570,7 +645,9 @@
       "year": 2021,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 GMC Sierra 1500 ",
@@ -586,7 +663,9 @@
       "year": 2022,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Honda Accord Hybrid ",
@@ -602,7 +681,9 @@
       "year": 2022,
       "make": "Honda",
       "model": "Accord Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Kia Sorento ",
@@ -618,7 +699,9 @@
       "year": 2022,
       "make": "Kia",
       "model": "Sorento",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Tesla Model 3 ",
@@ -633,7 +716,9 @@
       "year": 2022,
       "make": "Tesla",
       "model": "Model 3",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Toyota Corolla ",
@@ -649,7 +734,9 @@
       "year": 2022,
       "make": "Toyota",
       "model": "Corolla",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Toyota Corolla Cross ",
@@ -664,7 +751,9 @@
       "year": 2022,
       "make": "Toyota",
       "model": "Corolla Cross",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Volkswagen Tiguan Comfortline R-Line Black Editionin Maple Ridge",
@@ -679,7 +768,9 @@
       "year": 2022,
       "make": "Volkswagen",
       "model": "Tiguan Comfortline R-Line Black Editionin Maple Ridge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2022 Volkswagen Tiguan ",
@@ -695,7 +786,9 @@
       "year": 2022,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Chevrolet TrailBlazer ",
@@ -711,7 +804,9 @@
       "year": 2023,
       "make": "Chevrolet",
       "model": "TrailBlazer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 GMC Sierra 1500 ",
@@ -727,7 +822,9 @@
       "year": 2023,
       "make": "GMC",
       "model": "Sierra 1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Kona ",
@@ -743,7 +840,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Kona",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Hyundai Santa Fe ",
@@ -759,7 +858,9 @@
       "year": 2023,
       "make": "Hyundai",
       "model": "Santa Fe",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Infiniti QX50 ",
@@ -775,7 +876,9 @@
       "year": 2023,
       "make": "Infiniti",
       "model": "QX50",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Kia EV6 ",
@@ -790,7 +893,9 @@
       "year": 2023,
       "make": "Kia",
       "model": "EV6",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Lexus NX ",
@@ -805,7 +910,9 @@
       "year": 2023,
       "make": "Lexus",
       "model": "NX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Subaru Ascent ",
@@ -820,7 +927,9 @@
       "year": 2023,
       "make": "Subaru",
       "model": "Ascent",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota Highlander ",
@@ -835,7 +944,9 @@
       "year": 2023,
       "make": "Toyota",
       "model": "Highlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota Venza ",
@@ -851,7 +962,9 @@
       "year": 2023,
       "make": "Toyota",
       "model": "Venza",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Acura RDX ",
@@ -866,7 +979,9 @@
       "year": 2024,
       "make": "Acura",
       "model": "RDX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Acura RDX ",
@@ -881,7 +996,9 @@
       "year": 2024,
       "make": "Acura",
       "model": "RDX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco Sport ",
@@ -896,7 +1013,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Ford F-150 ",
@@ -912,7 +1031,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Ranger ",
@@ -927,7 +1048,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Bronco Sport ",
@@ -942,7 +1065,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Ford F-150 ",
@@ -958,7 +1083,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Ford Ranger ",
@@ -973,7 +1100,9 @@
       "year": 2024,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Honda CR-V Hybrid ",
@@ -989,7 +1118,9 @@
       "year": 2024,
       "make": "Honda",
       "model": "CR-V Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Honda CR-V Hybrid ",
@@ -1005,7 +1136,9 @@
       "year": 2024,
       "make": "Honda",
       "model": "CR-V Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Tucson Hybrid ",
@@ -1021,7 +1154,9 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Hyundai Tucson Hybrid ",
@@ -1037,21 +1172,26 @@
       "year": 2024,
       "make": "Hyundai",
       "model": "Tucson Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Wrangler 4xe ",
       "vin": "1C4RJXN63RW220284",
       "stock": 14428652,
       "color": "Earl",
+      "trim": "4xe",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/abf6141e38fe.html",
       "source_url": "https://www.mapleridge-vw.ca/used/2024-Jeep-Wrangler_4xe.html",
       "dealer_url": "https://www.mapleridge-vw.ca/used/2024-Jeep-Wrangler_4xe.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T07:48:15",
       "year": 2024,
       "make": "Jeep",
-      "model": "Wrangler 4xe",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Sentra ",
@@ -1067,7 +1207,9 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Sentra",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Subaru Outback ",
@@ -1082,7 +1224,9 @@
       "year": 2024,
       "make": "Subaru",
       "model": "Outback",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota Corolla ",
@@ -1097,7 +1241,9 @@
       "year": 2024,
       "make": "Toyota",
       "model": "Corolla",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Toyota RAV4 ",
@@ -1112,13 +1258,16 @@
       "year": 2024,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Golf R TSI | Backup Camera | Lane Departure | Apple CarPlay | Heated Seatsin Maple Ridge",
       "vin": "WVWDB7CD1RW124436",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "TSI",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/52f98fac29a8.html",
       "source_url": "https://www.mapleridge-vw.ca/used/2024-Volkswagen-Golf_R-id13919558.html",
       "dealer_url": "https://www.mapleridge-vw.ca/used/2024-Volkswagen-Golf_R-id13919558.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1126,8 +1275,10 @@
       "odometer_km": 40709,
       "year": 2024,
       "make": "Volkswagen",
-      "model": "Golf R TSI",
-      "condition": "used"
+      "model": "Golf R",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Golf R ",
@@ -1142,13 +1293,16 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Golf R",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Jetta GLI 40th Anniversary Edition| Apple Carplay | Heated Seats | Sunroof |in Maple Ridge",
       "vin": "3VW9T7BU2RM020166",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "40th Anniversary Edition",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/78a066598bb3.html",
       "source_url": "https://www.mapleridge-vw.ca/used/2024-Volkswagen-Jetta_GLI-id14355597.html",
       "dealer_url": "https://www.mapleridge-vw.ca/used/2024-Volkswagen-Jetta_GLI-id14355597.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1156,8 +1310,10 @@
       "odometer_km": 34100,
       "year": 2024,
       "make": "Volkswagen",
-      "model": "Jetta GLI 40th Anniversary Edition",
-      "condition": "used"
+      "model": "Jetta GLI",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Jetta GLI ",
@@ -1173,13 +1329,16 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Jetta GLI",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Taos Highlinein Maple Ridge",
       "vin": "3VV4X7B21RM014232",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Highlinein Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/573a914f33b8.html",
       "source_url": "https://www.mapleridge-vw.ca/used/2024-Volkswagen-Taos-id14400320.html",
       "dealer_url": "https://www.mapleridge-vw.ca/used/2024-Volkswagen-Taos-id14400320.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1187,8 +1346,10 @@
       "odometer_km": 25300,
       "year": 2024,
       "make": "Volkswagen",
-      "model": "Taos Highlinein Maple Ridge",
-      "condition": "used"
+      "model": "Taos",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2024 Volkswagen Taos ",
@@ -1204,7 +1365,9 @@
       "year": 2024,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Honda CR-V Hybrid ",
@@ -1219,7 +1382,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "CR-V Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Honda Civic Hybrid ",
@@ -1235,7 +1400,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "Civic Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Honda CR-V Hybrid ",
@@ -1250,7 +1417,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "CR-V Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Honda Civic Hybrid ",
@@ -1266,13 +1435,16 @@
       "year": 2025,
       "make": "Honda",
       "model": "Civic Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Elantra N ",
       "vin": "KMHLW4DK0SU033229",
       "stock": 14099500,
       "color": "Black",
+      "trim": "N",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/0895b60d8724.html",
       "source_url": "https://www.mapleridge-vw.ca/used/2025-Hyundai-Elantra_N.html",
       "dealer_url": "https://www.mapleridge-vw.ca/used/2025-Hyundai-Elantra_N.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1281,8 +1453,10 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Hyundai",
-      "model": "Elantra N",
-      "condition": "used"
+      "model": "Elantra",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Venue ",
@@ -1298,13 +1472,16 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Elantra N ",
       "vin": "KMHLW4DK0SU033229",
       "stock": 14099500,
       "color": "Black",
+      "trim": "N",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/0895b60d8724.html",
       "source_url": "https://www.mapleridge-vw.ca/used/2025-Hyundai-Elantra_N.html",
       "dealer_url": "https://www.mapleridge-vw.ca/used/2025-Hyundai-Elantra_N.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1313,8 +1490,10 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Hyundai",
-      "model": "Elantra N",
-      "condition": "new"
+      "model": "Elantra",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Hyundai Venue ",
@@ -1330,7 +1509,9 @@
       "year": 2025,
       "make": "Hyundai",
       "model": "Venue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Infiniti QX60 ",
@@ -1346,7 +1527,9 @@
       "year": 2025,
       "make": "Infiniti",
       "model": "QX60",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Infiniti QX60 ",
@@ -1362,7 +1545,9 @@
       "year": 2025,
       "make": "Infiniti",
       "model": "QX60",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Kia K4 ",
@@ -1378,7 +1563,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "K4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Seltos ",
@@ -1393,7 +1580,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Kia K4 ",
@@ -1409,7 +1598,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "K4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Kia Seltos ",
@@ -1424,7 +1615,9 @@
       "year": 2025,
       "make": "Kia",
       "model": "Seltos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 MINI Countryman ",
@@ -1440,7 +1633,9 @@
       "year": 2025,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 MINI Countryman ",
@@ -1456,7 +1651,9 @@
       "year": 2025,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 MINI Countryman ",
@@ -1472,7 +1669,9 @@
       "year": 2025,
       "make": "MINI",
       "model": "Countryman",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-5 ",
@@ -1486,7 +1685,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Mazda CX-5 ",
@@ -1500,7 +1701,9 @@
       "year": 2025,
       "make": "Mazda",
       "model": "CX-5",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Mitsubishi Outlander ",
@@ -1515,7 +1718,9 @@
       "year": 2025,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Mitsubishi Outlander PHEV ",
@@ -1531,7 +1736,9 @@
       "year": 2025,
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Mitsubishi Outlander ",
@@ -1546,7 +1753,9 @@
       "year": 2025,
       "make": "Mitsubishi",
       "model": "Outlander",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Mitsubishi Outlander PHEV ",
@@ -1562,7 +1771,9 @@
       "year": 2025,
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Kicks ",
@@ -1578,13 +1789,16 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Kicks Play ",
       "vin": "3N1CP5CV0SL490459",
       "stock": 14274759,
       "color": "Grey",
+      "trim": "Play",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/6c143658b74d.html",
       "source_url": "https://www.mapleridge-vw.ca/used/2025-Nissan-Kicks_Play.html",
       "dealer_url": "https://www.mapleridge-vw.ca/used/2025-Nissan-Kicks_Play.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1593,8 +1807,10 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Nissan",
-      "model": "Kicks Play",
-      "condition": "used"
+      "model": "Kicks",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Kicks ",
@@ -1610,13 +1826,16 @@
       "year": 2025,
       "make": "Nissan",
       "model": "Kicks",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Kicks Play ",
       "vin": "3N1CP5CV0SL490459",
       "stock": 14274759,
       "color": "Grey",
+      "trim": "Play",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/6c143658b74d.html",
       "source_url": "https://www.mapleridge-vw.ca/used/2025-Nissan-Kicks_Play.html",
       "dealer_url": "https://www.mapleridge-vw.ca/used/2025-Nissan-Kicks_Play.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1625,8 +1844,10 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Nissan",
-      "model": "Kicks Play",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota Corolla ",
@@ -1641,7 +1862,9 @@
       "year": 2025,
       "make": "Toyota",
       "model": "Corolla",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota RAV4 ",
@@ -1657,7 +1880,9 @@
       "year": 2025,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota Corolla ",
@@ -1672,7 +1897,9 @@
       "year": 2025,
       "make": "Toyota",
       "model": "Corolla",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Toyota RAV4 ",
@@ -1688,21 +1915,26 @@
       "year": 2025,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Atlas Cross Sport Comfortline | AWD (4MOTION) | 2.0T | Automatic | Heated Seats | Digital Cockpit | Apple CarPlayin Maple Ridge",
       "vin": "1V2LE2CA3SC213037",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/f3b4b8f1e14a.html",
       "source_url": "https://www.mapleridge-vw.ca/used/2025-Volkswagen-Atlas_Cross_Sport-id13143224.html",
       "dealer_url": "https://www.mapleridge-vw.ca/used/2025-Volkswagen-Atlas_Cross_Sport-id13143224.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T07:53:03",
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Atlas Cross Sport Comfortline",
-      "condition": "used"
+      "model": "Atlas Cross Sport",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Atlas Cross Sport ",
@@ -1718,13 +1950,16 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos Comfortlinein Maple Ridge",
       "vin": "3VVUC7B29SM049036",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortlinein Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/7eca01f92580.html",
       "source_url": "https://www.mapleridge-vw.ca/used/2025-Volkswagen-Taos-id14421141.html",
       "dealer_url": "https://www.mapleridge-vw.ca/used/2025-Volkswagen-Taos-id14421141.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1732,14 +1967,17 @@
       "odometer_km": 43000,
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Taos Comfortlinein Maple Ridge",
-      "condition": "used"
+      "model": "Taos",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos Comfortlinein Maple Ridge",
       "vin": "3VVUC7B20SM074083",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortlinein Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/4ab6aeb8c50f.html",
       "source_url": "https://www.mapleridge-vw.ca/used/2025-Volkswagen-Taos-id14421142.html",
       "dealer_url": "https://www.mapleridge-vw.ca/used/2025-Volkswagen-Taos-id14421142.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1747,8 +1985,10 @@
       "odometer_km": 39700,
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Taos Comfortlinein Maple Ridge",
-      "condition": "used"
+      "model": "Taos",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos ",
@@ -1764,35 +2004,43 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Tiguan Trendline | AWD (4MOTION) | 2.0T | Automatic | Heated Seats | Digital Cockpit | Apple CarPlay & Andrin Maple Ridge",
       "vin": "3VVBR7RM2SM016523",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/5601a75a35f8.html",
       "source_url": "https://www.mapleridge-vw.ca/used/2025-Volkswagen-Tiguan-id12384477.html",
       "dealer_url": "https://www.mapleridge-vw.ca/used/2025-Volkswagen-Tiguan-id12384477.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T07:54:06",
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Tiguan Trendline",
-      "condition": "used"
+      "model": "Tiguan",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Tiguan Trendline | AWD (4MOTION) | 2.0T | Automatic | Heated Seats | Digital Cockpit | Apple CarPlay & Andrin Maple Ridge",
       "vin": "3VVBR7RM9SM048028",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/9f6a82a1f52b.html",
       "source_url": "https://www.mapleridge-vw.ca/used/2025-Volkswagen-Tiguan-id13344369.html",
       "dealer_url": "https://www.mapleridge-vw.ca/used/2025-Volkswagen-Tiguan-id13344369.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T07:54:16",
       "year": 2025,
       "make": "Volkswagen",
-      "model": "Tiguan Trendline",
-      "condition": "used"
+      "model": "Tiguan",
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Tiguan ",
@@ -1808,7 +2056,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Atlas Cross Sport ",
@@ -1824,7 +2074,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Taos ",
@@ -1840,7 +2092,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2025 Volkswagen Tiguan ",
@@ -1856,7 +2110,9 @@
       "year": 2025,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Genesis G70 ",
@@ -1872,7 +2128,9 @@
       "year": 2026,
       "make": "Genesis",
       "model": "G70",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Genesis G70 ",
@@ -1888,7 +2146,9 @@
       "year": 2026,
       "make": "Genesis",
       "model": "G70",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson ",
@@ -1904,7 +2164,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Hyundai Tucson ",
@@ -1920,7 +2182,9 @@
       "year": 2026,
       "make": "Hyundai",
       "model": "Tucson",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Kia EV4 ",
@@ -1936,7 +2200,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "EV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage ",
@@ -1952,7 +2218,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Kia EV4 ",
@@ -1968,7 +2236,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "EV4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Kia Sportage ",
@@ -1984,7 +2254,9 @@
       "year": 2026,
       "make": "Kia",
       "model": "Sportage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue ",
@@ -2000,7 +2272,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue ",
@@ -2016,7 +2290,9 @@
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas Cross Sport ",
@@ -2032,7 +2308,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Golf GTI ",
@@ -2048,7 +2326,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Golf GTI",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Golf R ",
@@ -2064,7 +2344,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Golf R",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta GLI ",
@@ -2080,7 +2362,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta GLI",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan ",
@@ -2096,7 +2380,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Comfortline Black Edition 1.5L turbocharged engine 19-inch Portland Black alloy wheelsin Maple Ridge",
@@ -2111,7 +2397,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Taos Comfortline Black Edition 1.5L turbocharged engine 19-inch Portland Black alloy wheelsin Maple Ridge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos ",
@@ -2127,7 +2415,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Atlas Cross Sport ",
@@ -2143,7 +2433,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Golf GTI ",
@@ -2159,7 +2451,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Golf GTI",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Golf R ",
@@ -2175,7 +2469,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Golf R",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta GLI ",
@@ -2191,7 +2487,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Jetta GLI",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan ",
@@ -2207,13 +2505,16 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Trendline | Backup Camera | Blind Spot Assist | Bluetooth | Cruise Controlin Maple Ridge",
       "vin": "3VWCW7BU0TM066681",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/59b1f554b955.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Jetta-id14055540.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Jetta-id14055540.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2222,14 +2523,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Trendline",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Trendline | Cruise Control | Bluetooth | Blind Spot Assist | Heated Seatsin Maple Ridge",
       "vin": "3VWCW7BUXTM066946",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/98e0b65daec5.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Jetta-id14060199.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Jetta-id14060199.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2238,14 +2542,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Trendline",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Trendline | WiFi Hotspot | Backup Camera | Heated Seats | Apple CarPlayin Maple Ridge",
       "vin": "3VWCW7BU0TM067247",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/d5f3225ff309.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Jetta-id14060580.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Jetta-id14060580.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2254,14 +2561,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Trendline",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Trendline | Remote Starter | Apple CarPlay | Cruise Control | Heated Seats |in Maple Ridge",
       "vin": "3VWCW7BU2TM070702",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/d6751265aad6.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Jetta-id14071630.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Jetta-id14071630.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2270,14 +2580,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Trendline",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Trendline | Heated Seats | Apple Car Play | LED Lighting |in Maple Ridge",
       "vin": "3VWCW7BU8TM069439",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/1558b2eb660e.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Jetta-id14071631.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Jetta-id14071631.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2286,14 +2599,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Trendline",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Trendline | Backup Camera | Cruise Control | Smart Device Integrationin Maple Ridge",
       "vin": "3VWCW7BU0TM068043",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/695cabdd8f0d.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Jetta-id14071632.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Jetta-id14071632.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2302,14 +2618,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Trendline",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Trendline | Heated Seats | Apple Car Play | LED Lighting |in Maple Ridge",
       "vin": "3VWCW7BU3TM070059",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/b9727c4bf2fb.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Jetta-id14074704.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Jetta-id14074704.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2318,14 +2637,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Trendline",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Trendline | Backup Camera | Apple CarPlay | Blind Spot Assist | Cruise Controlin Maple Ridge",
       "vin": "3VWCW7BU7TM068282",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/d13cbd9d4da7.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Jetta-id14074705.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Jetta-id14074705.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2334,14 +2656,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Trendline",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Comfortline | Remote Starter | Heated Seats | Digital Cockpit | Apple CarPlay | Backup Camera |in Maple Ridge",
       "vin": "3VWEW7BU7TM063866",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/15c945584093.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Jetta-id14074707.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Jetta-id14074707.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2350,14 +2675,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Comfortline",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Comfortline | Sport Package | Blind Spot System | Apple CarPlay | Sunroof |in Maple Ridge",
       "vin": "3VWSW7BU1TM072923",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/28cccf329055.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Jetta-id14085757.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Jetta-id14085757.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2366,14 +2694,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Comfortline",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Comfortline | Sport Package | Blind Spot System | Apple CarPlay | Sunroof |in Maple Ridge",
       "vin": "3VWSW7BU1TM073652",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/83f251879a0f.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Jetta-id14118167.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Jetta-id14118167.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2382,14 +2713,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Comfortline",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta Comfortlinein Maple Ridge",
       "vin": "3VWEW7BU0TM050635",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortlinein Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/d6bcd5bf5403.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Jetta-id14434873.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Jetta-id14434873.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2398,14 +2732,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta Comfortlinein Maple Ridge",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta GLI Autobahn | Automatic | Turbo | Leather | Navigation | Heated & Ventilated Seatsin Maple Ridge",
       "vin": "3VW2M7BU1TM056050",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Autobahn",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/e4b7f9af4a86.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Jetta_GLI-id13760833.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Jetta_GLI-id13760833.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2414,14 +2751,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta GLI Autobahn",
-      "condition": "new"
+      "model": "Jetta GLI",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Jetta GLI Autobahn | Automatic | Turbo | Leather | Navigation | Heated & Ventilated Seats | Adaptive Cruisein Maple Ridge",
       "vin": "3VW2M7BU8TM056613",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Autobahn",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/4d15cbe2a33b.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Jetta_GLI-id13793351.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Jetta_GLI-id13793351.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2430,14 +2770,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Jetta GLI Autobahn",
-      "condition": "new"
+      "model": "Jetta GLI",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Trendline | Apple CarPlay | Heated Seats | Backup Camerain Maple Ridge",
       "vin": "3VV8C7B21TM041824",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/40b2d719f5c6.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Taos-id13446474.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Taos-id13446474.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2446,14 +2789,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Trendline",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Comfortline| AWD | Heated Seats | Digital Cockpit | Apple CarPlay | 3rd Rowin Maple Ridge",
       "vin": "3VVVC7B23TM042606",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/0c66fef50283.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Taos-id13470814.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Taos-id13470814.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2462,14 +2808,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Comfortline",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Comfortline | AWD (4MOTION) | 1.5T | Automatic | Heated Seats | Digital Cockpit | Apple CarPlay & Anin Maple Ridge",
       "vin": "3VVVC7B26TM042535",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/e801b6a341a1.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Taos-id13491398.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Taos-id13491398.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2478,14 +2827,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Comfortline",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Comfortline Black Edition | AWD | Apple CarPlay | Heated Seats | Digital Cockpit | Backup Camerain Maple Ridge",
       "vin": "3VV2C7B25TM043081",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline Black Edition",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/4dad6a4136c8.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Taos-id13491406.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Taos-id13491406.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2494,14 +2846,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Comfortline Black Edition",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Trendline | Apple CarPlay | Android Auto | Heated Seats | Backup Camera | Blind Spot | Forward Colliin Maple Ridge",
       "vin": "3VV8C7B2XTM047489",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/6fbb832c66e8.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Taos-id13497162.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Taos-id13497162.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2510,14 +2865,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Trendline",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Comfortline Black Edition | AWD | Apple CarPlay | Android Auto | Heated Seats | Blind Spot | Cross-Tin Maple Ridge",
       "vin": "3VV2C7B2XTM050222",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline Black Edition",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/38a8eadb2dec.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Taos-id13554458.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Taos-id13554458.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2526,14 +2884,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Comfortline Black Edition",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Comfortline | Black Edition | AWD | Heated Seats | Digital Cockpit | Apple CarPlay | Sport Stylingin Maple Ridge",
       "vin": "3VV2C7B27TM054891",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/2da27b793bf9.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Taos-id13597947.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Taos-id13597947.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2542,14 +2903,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Comfortline",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Trendline | 4MOTION | Apple CarPlay | Backup Camera | Heated Seats | Great Fuel Economyin Maple Ridge",
       "vin": "3VV8C7B20TM055438",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/51f66cc001a0.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Taos-id13625080.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Taos-id13625080.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2558,14 +2922,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Trendline",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Comfortline | AWD | Apple CarPlay | Android Auto | Heated Seats | Digital Cockpit | Blind Spotin Maple Ridge",
       "vin": "3VVVC7B24TM058782",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/542f380cfd3d.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Taos-id13701466.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Taos-id13701466.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2574,14 +2941,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Comfortline",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Comfortline | AWD | Apple CarPlay | Android Auto | Heated Seats | Digital Cockpit | Blind Spotin Maple Ridge",
       "vin": "3VVVC7B23TM065237",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/83b5eb903bbb.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Taos-id13760834.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Taos-id13760834.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2590,14 +2960,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Comfortline",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Comfortline | Cruise Control | Panoramic Sunroof | Apple CarPlay | Remote Startin Maple Ridge",
       "vin": "3VVVC7B21TM072655",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/a6915ac339fb.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Taos-id14009078.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Taos-id14009078.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2606,14 +2979,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Comfortline",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Comfortline | Sunroof Package | Apple CarPlay | Backup Camera | Cruise Controlin Maple Ridge",
       "vin": "3VVVC7B27TM081313",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/666681433d88.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Taos-id14021456.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Taos-id14021456.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2622,14 +2998,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Comfortline",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos Comfortline Black Editionin Maple Ridge",
       "vin": "3VV2C7B2XTM070096",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline Black Editionin Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/1e42a42df16f.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Taos-id14021457.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Taos-id14021457.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2638,14 +3017,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Taos Comfortline Black Editionin Maple Ridge",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Trendline | AWD | Heated Seats | Apple CarPlay | Backup Camera | Digital Cluster | Keyless Entry | Din Maple Ridge",
       "vin": "3VVBR7RM6TM077424",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/ed185b9cbd84.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Tiguan-id13560120.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Tiguan-id13560120.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2654,14 +3036,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Trendline",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Trendline | AWD | Apple CarPlay | Android Auto | Heated Seats | Blind Spot | Forward Collision Warniin Maple Ridge",
       "vin": "3VVBR7RM7TM083474",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Trendline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/30f45ca1e702.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Tiguan-id13625077.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2026-Volkswagen-Tiguan-id13625077.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2670,8 +3055,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Trendline",
-      "condition": "new"
+      "model": "Tiguan",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Taos ",
@@ -2687,7 +3074,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Atlasin Maple Ridge",
@@ -2702,7 +3091,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Atlasin Maple Ridge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta GLI ",
@@ -2718,7 +3109,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Jetta GLI",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta ",
@@ -2734,7 +3127,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Taos ",
@@ -2750,7 +3145,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used"
+      "condition": "used",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Atlasin Maple Ridge",
@@ -2765,7 +3162,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Atlasin Maple Ridge",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta GLI ",
@@ -2781,7 +3180,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Jetta GLI",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta ",
@@ -2797,7 +3198,9 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Jetta",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Taos ",
@@ -2813,13 +3216,16 @@
       "year": 2027,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "new"
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta Comfortline | Sport Package | Blind Spot System | Apple CarPlay | Sunroof |in Maple Ridge",
       "vin": "3VWSW7BU6VM000148",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/3abc37d3c58e.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2027-Volkswagen-Jetta-id14288631.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2027-Volkswagen-Jetta-id14288631.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2828,14 +3234,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Jetta Comfortline",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta Comfortline | Backup Camera | Apple CarPlay | Lane Departure | Blind Spot Assistin Maple Ridge",
       "vin": "3VWSW7BU2VM001412",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/75f68818b5d7.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2027-Volkswagen-Jetta-id14288632.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2027-Volkswagen-Jetta-id14288632.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2844,14 +3253,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Jetta Comfortline",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta Comfortline | Adaptive Cruise Control | Apple CarPlay | Blind Spot Assistin Maple Ridge",
       "vin": "3VWEW7BU2VM001228",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/3f3c53b6d002.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2027-Volkswagen-Jetta-id14288633.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2027-Volkswagen-Jetta-id14288633.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2860,14 +3272,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Jetta Comfortline",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta Comfortlinein Maple Ridge",
       "vin": "3VWSW7BU5VM008905",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortlinein Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/e59256cf2805.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2027-Volkswagen-Jetta-id14388203.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2027-Volkswagen-Jetta-id14388203.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2876,14 +3291,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Jetta Comfortlinein Maple Ridge",
-      "condition": "new"
+      "model": "Jetta",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Jetta GLI Autobahn 2.0 l TSI 7 Speed Auto. FWD | Apple CarPlay | Safety Alert System |in Maple Ridge",
       "vin": "3VW2M7BU9VM007164",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Autobahn TSI 7 Speed Auto.",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/3da0ea7a501f.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2027-Volkswagen-Jetta_GLI-id14360998.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2027-Volkswagen-Jetta_GLI-id14360998.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2892,14 +3310,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Jetta GLI Autobahn 2.0 l TSI 7 Speed Auto. FWD",
-      "condition": "new"
+      "model": "Jetta GLI",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Taos Comfortline | Sunroof Package | Digital Cockpit | Apple CarPlay | Backup Camera | Sunroof Pkgin Maple Ridge",
       "vin": "3VVVD7B24VM010375",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/30b16405f742.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2027-Volkswagen-Taos-id14342444.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2027-Volkswagen-Taos-id14342444.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2908,14 +3329,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Taos Comfortline",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     },
     {
       "name": "2027 Volkswagen Taos Comfortlinein Maple Ridge",
       "vin": "3VVVD7B26VM002309",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortlinein Maple Ridge",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/e36da50f0605.html",
       "source_url": "https://www.mapleridge-vw.ca/new/inventory/2027-Volkswagen-Taos-id14355919.html",
       "dealer_url": "https://www.mapleridge-vw.ca/new/inventory/2027-Volkswagen-Taos-id14355919.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2924,8 +3348,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Taos Comfortlinein Maple Ridge",
-      "condition": "new"
+      "model": "Taos",
+      "condition": "new",
+      "city": "Maple Ridge",
+      "province": "BC"
     }
   ]
 }
