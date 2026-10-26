@@ -1,7 +1,7 @@
 {
   "dealership": "Maple Ridge Volkswagen",
-  "generated_at": "2026-10-25T20:08:40",
-  "vehicle_count": 190,
+  "generated_at": "2026-10-26T05:05:06",
+  "vehicle_count": 188,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -419,7 +419,7 @@
       "make": "Toyota",
       "model": "RAV4",
       "condition": "used",
-      "price": 29738.0,
+      "price": 29438.0,
       "price_currency": "CAD"
     },
     {
@@ -450,7 +450,7 @@
       "make": "Honda",
       "model": "Civic Sedan",
       "condition": "used",
-      "price": 21438.0,
+      "price": 20749.0,
       "price_currency": "CAD"
     },
     {
@@ -461,7 +461,7 @@
       "make": "Honda",
       "model": "Pilot",
       "condition": "used",
-      "price": 29745.0,
+      "price": 29638.0,
       "price_currency": "CAD"
     },
     {
@@ -494,7 +494,7 @@
       "make": "Kia",
       "model": "Sedona",
       "condition": "used",
-      "price": 23745.0,
+      "price": 23738.0,
       "price_currency": "CAD"
     },
     {
@@ -505,7 +505,7 @@
       "make": "Lexus",
       "model": "UX",
       "condition": "used",
-      "price": 33745.0,
+      "price": 32748.0,
       "price_currency": "CAD"
     },
     {
@@ -558,7 +558,7 @@
       "make": "Volkswagen",
       "model": "Atlas Cross Sport",
       "condition": "used",
-      "price": 30749.0,
+      "price": 30638.0,
       "price_currency": "CAD"
     },
     {
@@ -609,7 +609,7 @@
       "make": "Honda",
       "model": "CR-V",
       "condition": "used",
-      "price": 33745.0,
+      "price": 33638.0,
       "price_currency": "CAD"
     },
     {
@@ -631,7 +631,7 @@
       "make": "Kia",
       "model": "Soul",
       "condition": "used",
-      "price": 19638.0,
+      "price": 19338.0,
       "price_currency": "CAD"
     },
     {
@@ -653,7 +653,7 @@
       "make": "Nissan",
       "model": "Sentra",
       "condition": "used",
-      "price": 20745.0,
+      "price": 20638.0,
       "price_currency": "CAD"
     },
     {
@@ -664,7 +664,7 @@
       "make": "Tesla",
       "model": "Model 3",
       "condition": "used",
-      "price": 32745.0,
+      "price": 32638.0,
       "price_currency": "CAD"
     },
     {
@@ -748,7 +748,7 @@
       "make": "Hyundai",
       "model": "Tucson",
       "condition": "used",
-      "price": 29638.0,
+      "price": 29438.0,
       "price_currency": "CAD"
     },
     {
@@ -812,7 +812,7 @@
       "make": "Volkswagen",
       "model": "Taos",
       "condition": "used",
-      "price": 20745.0,
+      "price": 20438.0,
       "price_currency": "CAD"
     },
     {
@@ -823,7 +823,7 @@
       "make": "Acura",
       "model": "MDX",
       "condition": "used",
-      "price": 48345.0,
+      "price": 47748.0,
       "price_currency": "CAD"
     },
     {
@@ -1576,26 +1576,6 @@
       "model": "Taos",
       "condition": "used",
       "price": 28638.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Volkswagen Tiguan Trendline | AWD (4MOTION) | 2.0T | Automatic | Heated Seats | Digital Cockpit | Apple CarPlay & Andrin Maple Ridge",
-      "vin": "3VVBR7RM9SM048028",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/3d59f7b20e9e.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used"
-    },
-    {
-      "name": "2025 Volkswagen Tiguan ",
-      "vin": "3VVBR7RM9SM048028",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/54f22e4fa848.html",
-      "year": 2025,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 31948.0,
       "price_currency": "CAD"
     },
     {
