@@ -1,10 +1,26 @@
 {
   "dealership": "Maple Ridge Volkswagen",
-  "generated_at": "2026-10-25T20:02:46",
-  "vehicle_count": 191,
+  "generated_at": "2026-10-25T20:08:40",
+  "vehicle_count": 190,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "New 2026 Volkswagen Golf GTI Autobahn | Backup Camera | Lane Departure | Heated Seats | Bluetoothin Maple Ridge",
+      "vin": "WVWNE7CDXTW257649",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/3c70710dd04e.html",
+      "condition": "new",
+      "price": 42928.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Golf GTI Autobahn | Backup Camera | Blind Spot Assist | Lane Departure | Apple CarPlayin Maple Ridge",
+      "vin": "WVWNE7CD7TW258158",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/b9ff44ac6ec0.html",
+      "condition": "new",
+      "price": 43428.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "New 2026 Volkswagen Golf GTI Autobahn | Leather Seating Package | Apple Car Play | Safety Alert Tech |in Maple Ridge",
       "vin": "WVWNE7CD4TW291151",
@@ -38,6 +54,54 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Volkswagen Jetta Trendline | Heated Seats | Apple Car Play | LED Lighting |in Maple Ridge",
+      "vin": "3VWCW7BU8TM069439",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/1558b2eb660e.html",
+      "condition": "new",
+      "price": 30427.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta Trendline | Backup Camera | Cruise Control | Smart Device Integrationin Maple Ridge",
+      "vin": "3VWCW7BU0TM068043",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/695cabdd8f0d.html",
+      "condition": "new",
+      "price": 30427.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta Trendline | Heated Seats | Apple Car Play | LED Lighting |in Maple Ridge",
+      "vin": "3VWCW7BU3TM070059",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/b9727c4bf2fb.html",
+      "condition": "new",
+      "price": 30427.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta Trendline | Backup Camera | Apple CarPlay | Blind Spot Assist | Cruise Controlin Maple Ridge",
+      "vin": "3VWCW7BU7TM068282",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/d13cbd9d4da7.html",
+      "condition": "new",
+      "price": 30427.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta Comfortline | Remote Starter | Heated Seats | Digital Cockpit | Apple CarPlay | Backup Camera |in Maple Ridge",
+      "vin": "3VWEW7BU7TM063866",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/15c945584093.html",
+      "condition": "new",
+      "price": 32427.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Jetta Comfortline | Sport Package | Blind Spot System | Apple CarPlay | Sunroof |in Maple Ridge",
+      "vin": "3VWSW7BU1TM073652",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/83f251879a0f.html",
+      "condition": "new",
+      "price": 32028.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Volkswagen Jetta Comfortlinein Maple Ridge",
       "vin": "3VWSW7BU5TM061648",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/1aaa5a62989c.html",
@@ -51,6 +115,14 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/245cd5ea35d3.html",
       "condition": "new",
       "price": 34028.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Volkswagen Taos Comfortline| AWD | Heated Seats | Digital Cockpit | Apple CarPlay | 3rd Rowin Maple Ridge",
+      "vin": "3VVVC7B23TM042606",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/0c66fef50283.html",
+      "condition": "new",
+      "price": 37952.0,
       "price_currency": "CAD"
     },
     {
@@ -83,6 +155,14 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/658bbb330019.html",
       "condition": "new",
       "price": 65128.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Atlas Execline | Remote Start | Backup Camera | Apple CarPlay | Blind Spot Assistin Maple Ridge",
+      "vin": "1V2F53DH4VC501748",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/26163f875b9b.html",
+      "condition": "new",
+      "price": 68028.0,
       "price_currency": "CAD"
     },
     {
@@ -134,6 +214,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2027 Volkswagen Jetta Comfortline | Backup Camera | Apple CarPlay | Blind Spot Monitor | Lane Departurein Maple Ridge",
+      "vin": "3VWSW7BUXVM013419",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/609c1bd43795.html",
+      "condition": "new",
+      "price": 34828.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2027 Volkswagen Jetta GLI Autobahn 2.0 l TSI 7 Speed Auto. FWD | Apple CarPlay | Safety Alert System |in Maple Ridge",
       "vin": "3VW2M7BU9VM007164",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/3da0ea7a501f.html",
@@ -155,6 +243,22 @@
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/e36da50f0605.html",
       "condition": "new",
       "price": 40452.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Tiguan Trendline | Backup Camera | Apple CarPlay | Lane Departure | Blind Spot Assistin Maple Ridge",
+      "vin": "3VVBR7RM4VM000828",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/1e508228d6f4.html",
+      "condition": "new",
+      "price": 40878.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Tiguan Comfortline | Backup Camera | Apple CarPlay | Blind Spot Assist | Heated Seatsin Maple Ridge",
+      "vin": "3VVER7RM3VM003345",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/24e4a8ab4c39.html",
+      "condition": "new",
+      "price": 44378.0,
       "price_currency": "CAD"
     },
     {
@@ -1690,17 +1794,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Golf GTI Autobahn | Backup Camera | Lane Departure | Heated Seats | Bluetoothin Maple Ridge",
-      "vin": "WVWNE7CDXTW257649",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/3c70710dd04e.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Golf GTI",
-      "condition": "new",
-      "price": 42928.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Volkswagen Golf GTI Autobahn | Backup Camera | Adaptive Cruise Control | Apple CarPlay | Bluetoothin Maple Ridge",
       "vin": "WVWNE7CD4TW266458",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/d864682ae950.html",
@@ -1712,94 +1805,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Golf GTI Autobahn | Backup Camera | Blind Spot Assist | Lane Departure | Apple CarPlayin Maple Ridge",
-      "vin": "WVWNE7CD7TW258158",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/b9ff44ac6ec0.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Golf GTI",
-      "condition": "new",
-      "price": 43428.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Jetta Trendline | WiFi Hotspot | Backup Camera | Heated Seats | Apple CarPlayin Maple Ridge",
-      "vin": "3VWCW7BU0TM067247",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/d5f3225ff309.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new",
-      "price": 27928.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Jetta Trendline | Heated Seats | Apple Car Play | LED Lighting |in Maple Ridge",
-      "vin": "3VWCW7BU8TM069439",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/1558b2eb660e.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new",
-      "price": 30427.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Jetta Trendline | Backup Camera | Cruise Control | Smart Device Integrationin Maple Ridge",
-      "vin": "3VWCW7BU0TM068043",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/695cabdd8f0d.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new",
-      "price": 30427.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Jetta Trendline | Heated Seats | Apple Car Play | LED Lighting |in Maple Ridge",
-      "vin": "3VWCW7BU3TM070059",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/b9727c4bf2fb.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new",
-      "price": 30427.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Jetta Trendline | Backup Camera | Apple CarPlay | Blind Spot Assist | Cruise Controlin Maple Ridge",
-      "vin": "3VWCW7BU7TM068282",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/d13cbd9d4da7.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new",
-      "price": 30427.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Jetta Comfortline | Remote Starter | Heated Seats | Digital Cockpit | Apple CarPlay | Backup Camera |in Maple Ridge",
-      "vin": "3VWEW7BU7TM063866",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/15c945584093.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new",
-      "price": 32427.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Jetta Comfortline | Sport Package | Blind Spot System | Apple CarPlay | Sunroof |in Maple Ridge",
-      "vin": "3VWSW7BU1TM073652",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/83f251879a0f.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new",
-      "price": 32028.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Volkswagen Taos Trendline | Apple CarPlay | Heated Seats | Backup Camera demoin Maple Ridge",
       "vin": "3VV8C7B21TM041824",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/40b2d719f5c6.html",
@@ -1808,17 +1813,6 @@
       "model": "Taos",
       "condition": "new",
       "price": 35152.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Taos Comfortline| AWD | Heated Seats | Digital Cockpit | Apple CarPlay | 3rd Rowin Maple Ridge",
-      "vin": "3VVVC7B23TM042606",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/0c66fef50283.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Taos",
-      "condition": "new",
-      "price": 37952.0,
       "price_currency": "CAD"
     },
     {
@@ -1963,46 +1957,6 @@
       "condition": "new",
       "price": 40952.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Volkswagen Atlas Execlinein Maple Ridge",
-      "vin": "1V2F53DH4VC501748",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/26163f875b9b.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "Atlas",
-      "condition": "new"
-    },
-    {
-      "name": "2027 Volkswagen Jetta Comfortline | Backup Camera | Apple CarPlay | Blind Spot Monitor | Lane Departurein Maple Ridge",
-      "vin": "3VWSW7BUXVM013419",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/609c1bd43795.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new",
-      "price": 34828.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Volkswagen Tiguan Trendline | Backup Camera | Apple CarPlay | Lane Departure | Blind Spot Assistin Maple Ridge",
-      "vin": "3VVBR7RM4VM000828",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/1e508228d6f4.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new",
-      "price": 40878.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Volkswagen Tiguan Comfortlinein Maple Ridge",
-      "vin": "3VVER7RM3VM003345",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/24e4a8ab4c39.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "new"
     }
   ]
 }
