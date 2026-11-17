@@ -1,7 +1,7 @@
 {
   "dealership": "Maple Ridge Volkswagen",
-  "generated_at": "2026-11-17T00:48:40",
-  "vehicle_count": 199,
+  "generated_at": "2026-11-17T00:53:48",
+  "vehicle_count": 207,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -208,6 +208,42 @@
       "vin": "3VW2T7BU8SM092304",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/8ec227c015ac.html",
       "condition": "used"
+    },
+    {
+      "name": "Ford 2024 for salein Maple Ridge",
+      "vin": "1FTER4HHXRLE12953",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/9a10421c4e50.html",
+      "condition": "new"
+    },
+    {
+      "name": "Ford F-150 2024 for salein Maple Ridge",
+      "vin": "1FTEW2LP1RKE78812",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/3025a6ed5f56.html",
+      "condition": "new"
+    },
+    {
+      "name": "Ford Ranger 2024 for salein Maple Ridge",
+      "vin": "1FTER4HHXRLE12953",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/922aabba5805.html",
+      "condition": "new"
+    },
+    {
+      "name": "Honda 2024 for salein Maple Ridge",
+      "vin": "2HGFE1F94RH000228",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/ef77d1045d9a.html",
+      "condition": "new"
+    },
+    {
+      "name": "Honda 2025 for salein Maple Ridge",
+      "vin": "19XFL4H85SE400181",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/50bbcaeb61f3.html",
+      "condition": "new"
+    },
+    {
+      "name": "Honda Civic Hybrid 2025 for salein Maple Ridge",
+      "vin": "2HGFE4F83SH007153",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/f62de8cdc350.html",
+      "condition": "new"
     },
     {
       "name": "2006 Audi A3 w/Premium Pkgin Maple Ridge",
@@ -792,17 +828,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Acura RDX ",
-      "vin": "5J8TC2H64RL802802",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/7fe5f58f7b8c.html",
-      "year": 2024,
-      "make": "Acura",
-      "model": "RDX",
-      "condition": "new",
-      "price": 44638.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Ford F-150 ",
       "vin": "1FTEW2LP1RKE78812",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/3025a6ed5f56.html",
@@ -822,50 +847,6 @@
       "model": "Ranger",
       "condition": "used",
       "price": 43438.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford Bronco Sport ",
-      "vin": "3FMCR9C64RRF60491",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/9a10421c4e50.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 33138.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford F-150 ",
-      "vin": "1FTEW2LP1RKE78812",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/3025a6ed5f56.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "new",
-      "price": 44338.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Ford Ranger ",
-      "vin": "1FTER4HHXRLE12953",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/922aabba5805.html",
-      "year": 2024,
-      "make": "Ford",
-      "model": "Ranger",
-      "condition": "new",
-      "price": 43438.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Honda Civic Sedan ",
-      "vin": "2HGFE1F94RH000228",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/ef77d1045d9a.html",
-      "year": 2024,
-      "make": "Honda",
-      "model": "Civic Sedan",
-      "condition": "new",
-      "price": 33448.0,
       "price_currency": "CAD"
     },
     {
@@ -938,28 +919,6 @@
       "make": "Honda",
       "model": "Civic Hybrid",
       "condition": "used",
-      "price": 33338.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Honda Civic Hybrid ",
-      "vin": "2HGFE4F83SH007153",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/50bbcaeb61f3.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "Civic Hybrid",
-      "condition": "new",
-      "price": 33338.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Honda Civic Hybrid ",
-      "vin": "2HGFE4F83SH007153",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/f62de8cdc350.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "Civic Hybrid",
-      "condition": "new",
       "price": 33338.0,
       "price_currency": "CAD"
     },
@@ -1481,6 +1440,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Volkswagen Golf GTI Autobahnin Maple Ridge",
+      "vin": "WVWRE7CD3TW223117",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/ebe566016465.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Golf GTI",
+      "condition": "new",
+      "price": 44728.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Volkswagen Jetta Trendline | Backup Camera | Blind Spot Assist | Bluetooth | Cruise Controlin Maple Ridge",
       "vin": "3VWCW7BU0TM066681",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/59b1f554b955.html",
@@ -1577,17 +1547,6 @@
       "model": "Jetta",
       "condition": "new",
       "price": 32028.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Volkswagen Jetta Comfortlinein Maple Ridge",
-      "vin": "3VWSW7BU5TM061648",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/1aaa5a62989c.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Jetta",
-      "condition": "new",
-      "price": 34028.0,
       "price_currency": "CAD"
     },
     {
@@ -1910,6 +1869,39 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2027 Volkswagen Jetta GLI | Backup Camera | Apple CarPlay | Cross-Traffic Alert | Keyless Entry | Heated Seatsin Maple Ridge",
+      "vin": "3VW2M7BU3VM013008",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/e80cf8d17652.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta GLI",
+      "condition": "new",
+      "price": 38628.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta GLI | Apple CarPlay | Backup Camera | Lane Departure | Blind Spot Assistin Maple Ridge",
+      "vin": "3VW2M7BU7VM013478",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/5e77b57056b6.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta GLI",
+      "condition": "new",
+      "price": 38628.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta GLI | Backup Camera | Cruise Control | Apple CarPlay | Power Steering | Lane Departurein Maple Ridge",
+      "vin": "3VW2M7BU7VM016803",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/d3ac9c72eea8.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta GLI",
+      "condition": "new",
+      "price": 39628.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2027 Volkswagen Taos Comfortline | Sunroof Package | Digital Cockpit | Apple CarPlay | Backup Camera | Sunroof Pkgin Maple Ridge",
       "vin": "3VVVD7B24VM010375",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/30b16405f742.html",
@@ -1932,6 +1924,53 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2027 Volkswagen Taos Comfortline | Backup Camera | Heated Seats | Apple CarPlay | Remote Startin Maple Ridge",
+      "vin": "3VVVD7B27VM025467",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/bdc06e0dd78e.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new",
+      "price": 40952.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Taos Comfortline Black Editionin Maple Ridge",
+      "vin": "3VV2D7B24VM027888",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/0b6c7a8ae935.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Taos Comfortline Black Editionin Maple Ridge",
+      "vin": "3VV2D7B23VM029034",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/5ad0d9e2ce3d.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Taos Comfortline Black Editionin Maple Ridge",
+      "vin": "3VV2D7B20VM027368",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/b7f5ff114b68.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Taos Comfortlinein Maple Ridge",
+      "vin": "3VVUD7B26VM026329",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/a3d9d3109148.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Taos",
+      "condition": "new"
+    },
+    {
       "name": "New 2027 Volkswagen Tiguan Trendline | Backup Camera | Apple CarPlay | Lane Departure | Blind Spot Assistin Maple Ridge",
       "vin": "3VVBR7RM4VM000828",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/1e508228d6f4.html",
@@ -1952,6 +1991,15 @@
       "condition": "new",
       "price": 44378.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Tiguan Highline Turbo R-Linein Maple Ridge",
+      "vin": "3VVUW7RM9VM011406",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/c47cb28fe7c5.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "new"
     }
   ]
 }
