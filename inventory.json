@@ -1,7 +1,7 @@
 {
   "dealership": "Maple Ridge Volkswagen",
-  "generated_at": "2026-11-17T21:16:35",
-  "vehicle_count": 206,
+  "generated_at": "2026-11-17T21:20:44",
+  "vehicle_count": 207,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -327,6 +327,54 @@
       "name": "Honda Civic Hybrid 2025 for salein Maple Ridge",
       "vin": "2HGFE4F83SH007153",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/f62de8cdc350.html",
+      "condition": "new"
+    },
+    {
+      "name": "Hyundai 2025 for salein Maple Ridge",
+      "vin": "KMHRC8A39SU387774",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/0895b60d8724.html",
+      "condition": "new"
+    },
+    {
+      "name": "Hyundai Venue 2025 for salein Maple Ridge",
+      "vin": "KMHRC8A39SU387774",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/99f3fe195f83.html",
+      "condition": "new"
+    },
+    {
+      "name": "Kia Seltos 2025 for salein Maple Ridge",
+      "vin": "KNDEUCAA4S7795440",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/41d849222c18.html",
+      "condition": "new"
+    },
+    {
+      "name": "Mazda CX-5 2025 for salein Maple Ridge",
+      "vin": "JM3KFBCL9S0747793",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/923582c98442.html",
+      "condition": "new"
+    },
+    {
+      "name": "Mitsubishi Outlander 2025 for salein Maple Ridge",
+      "vin": "JA4J4VA80SZ619877",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/5b0f0e0875f5.html",
+      "condition": "new"
+    },
+    {
+      "name": "Mitsubishi Outlander PHEV 2025 for salein Maple Ridge",
+      "vin": "JA4T5VA93SZ624165",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/aa41f814b9e5.html",
+      "condition": "new"
+    },
+    {
+      "name": "Nissan Kicks 2025 for salein Maple Ridge",
+      "vin": "3N1CP5CV0SL490459",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/ab8dff5f4e8c.html",
+      "condition": "new"
+    },
+    {
+      "name": "Nissan Kicks Play 2025 for salein Maple Ridge",
+      "vin": "3N1CP5CV0SL490459",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/6c143658b74d.html",
       "condition": "new"
     },
     {
@@ -884,39 +932,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Hyundai Venue ",
-      "vin": "KMHRC8A39SU387774",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/0895b60d8724.html",
-      "year": 2025,
-      "make": "Hyundai",
-      "model": "Venue",
-      "condition": "new",
-      "price": 20238.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Hyundai Venue ",
-      "vin": "KMHRC8A39SU387774",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/99f3fe195f83.html",
-      "year": 2025,
-      "make": "Hyundai",
-      "model": "Venue",
-      "condition": "new",
-      "price": 20238.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Infiniti QX60 ",
-      "vin": "5N1AL1FS5SC339067",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/0d6c0bd48856.html",
-      "year": 2025,
-      "make": "Infiniti",
-      "model": "QX60",
-      "condition": "new",
-      "price": 36749.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Kia Seltos EX | Apple CarPlay | Backup Camera | Blind Spot Assist | Keyless Entry | Lane Departurein Maple Ridge",
       "vin": "KNDEUCAA4S7795440",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/a695423c1838.html",
@@ -937,17 +952,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Kia Seltos ",
-      "vin": "KNDEUCAA4S7795440",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/41d849222c18.html",
-      "year": 2025,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "new",
-      "price": 25638.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Mazda CX-5 ",
       "vin": "JM3KFBCL9S0747793",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/923582c98442.html",
@@ -955,17 +959,6 @@
       "make": "Mazda",
       "model": "CX-5",
       "condition": "used",
-      "price": 31138.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Mazda CX-5 ",
-      "vin": "JM3KFBCL9S0747793",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/923582c98442.html",
-      "year": 2025,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "new",
       "price": 31138.0,
       "price_currency": "CAD"
     },
@@ -988,28 +981,6 @@
       "make": "Mitsubishi",
       "model": "Outlander PHEV",
       "condition": "used",
-      "price": 46748.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Mitsubishi Outlander ",
-      "vin": "JA4J4VA80SZ619877",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/5b0f0e0875f5.html",
-      "year": 2025,
-      "make": "Mitsubishi",
-      "model": "Outlander",
-      "condition": "new",
-      "price": 39138.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Mitsubishi Outlander PHEV ",
-      "vin": "JA4T5VA93SZ624165",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/aa41f814b9e5.html",
-      "year": 2025,
-      "make": "Mitsubishi",
-      "model": "Outlander PHEV",
-      "condition": "new",
       "price": 46748.0,
       "price_currency": "CAD"
     },
@@ -1062,28 +1033,6 @@
       "model": "Sentra",
       "condition": "used",
       "price": 23638.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Nissan Kicks Play ",
-      "vin": "3N1CP5CV0SL490459",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/ab8dff5f4e8c.html",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "new",
-      "price": 21638.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Nissan Kicks Play ",
-      "vin": "3N1CP5CV0SL490459",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/6c143658b74d.html",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "new",
-      "price": 21638.0,
       "price_currency": "CAD"
     },
     {
@@ -1345,17 +1294,6 @@
       "model": "Golf GTI",
       "condition": "new",
       "price": 43428.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Volkswagen Golf GTI Autobahn | Leather Seating Package | Apple Car Play | Safety Alert Tech |in Maple Ridge",
-      "vin": "WVWNE7CD4TW291151",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/dc2a13c4a9e1.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Golf GTI",
-      "condition": "new",
-      "price": 43928.0,
       "price_currency": "CAD"
     },
     {
@@ -1623,6 +1561,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Volkswagen Tiguan Comfortlinein Maple Ridge",
+      "vin": "3VVMR7RM4TM017134",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/fef9282e60db.html",
+      "year": 2026,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "new",
+      "price": 45578.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Volkswagen Taos ",
       "vin": "3VV8C7B21TM041824",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/9e03c3e23d6c.html",
@@ -1700,23 +1649,23 @@
       "price_currency": "CAD"
     },
     {
-      "name": "New 2027 Volkswagen GLI | Backup Camera | Apple CarPlay | Cross-Traffic Alert | Keyless Entry | Heated Seatsin Maple Ridge",
+      "name": "New 2027 Volkswagen Jetta GLI | Backup Camera | Apple CarPlay | Cross-Traffic Alert | Keyless Entry | Heated Seatsin Maple Ridge",
       "vin": "3VW2M7BU3VM013008",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/9ca694700eb6.html",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "GLI",
+      "model": "Jetta GLI",
       "condition": "new",
       "price": 38628.0,
       "price_currency": "CAD"
     },
     {
-      "name": "New 2027 Volkswagen GLI | Apple CarPlay | Backup Camera | Lane Departure | Blind Spot Assistin Maple Ridge",
+      "name": "New 2027 Volkswagen Jetta GLI | Apple CarPlay | Backup Camera | Lane Departure | Blind Spot Assistin Maple Ridge",
       "vin": "3VW2M7BU7VM013478",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/7f86958fb379.html",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "GLI",
+      "model": "Jetta GLI",
       "condition": "new",
       "price": 38628.0,
       "price_currency": "CAD"
@@ -1919,6 +1868,28 @@
       "make": "Volkswagen",
       "model": "Tiguan",
       "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Tiguan Comfortline R-Line Black Editionin Maple Ridge",
+      "vin": "3VVGR7RM4VM014301",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/e7c915caf6ce.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Tiguan Comfortline R-Line Black Editionin Maple Ridge",
+      "condition": "new",
+      "price": 47778.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Tiguan Comfortline R-Line Black Editionin Maple Ridge",
+      "vin": "3VVGR7RM5VM010936",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/3e66b88612e9.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Tiguan Comfortline R-Line Black Editionin Maple Ridge",
+      "condition": "new",
+      "price": 47778.0,
+      "price_currency": "CAD"
     }
   ]
 }

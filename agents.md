@@ -7,7 +7,7 @@ Maple Ridge Volkswagen is a  dealership in Maple Ridge. This site is an AI-reada
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/ and https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/ (about 206 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/ and https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/ (about 207 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/llms.txt
