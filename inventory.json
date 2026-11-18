@@ -1,7 +1,7 @@
 {
   "dealership": "Maple Ridge Volkswagen",
-  "generated_at": "2026-11-18T15:20:37",
-  "vehicle_count": 203,
+  "generated_at": "2026-11-18T15:25:11",
+  "vehicle_count": 207,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1046,14 +1046,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Volkswagen Tiguan ",
+      "name": "2026 Volkswagen Tiguanin Maple Ridge",
       "vin": "3VVBR7RM8TM025261",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/b365f7a81111.html",
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan",
+      "model": "Tiguanin Maple Ridge",
       "condition": "new",
-      "price": 37078.0,
+      "price": 39305.0,
       "price_currency": "CAD"
     },
     {
@@ -1365,47 +1365,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Volkswagen Atlas ",
+      "name": "2027 Volkswagen Atlasin Maple Ridge",
       "vin": "1V2D53DH8VC502313",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/16bb786c24c9.html",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Atlas",
+      "model": "Atlasin Maple Ridge",
       "condition": "new",
-      "price": 65128.0,
+      "price": 56355.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Volkswagen GLI ",
-      "vin": "3VW2M7BU3VM013008",
+      "name": "2027 Volkswagen Jetta GLIin Maple Ridge",
+      "vin": "3VW2M7BU9VM007164",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/4a9e8cc479be.html",
-      "year": 2027,
-      "make": "Volkswagen",
-      "model": "GLI",
-      "condition": "new",
-      "price": 38628.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Volkswagen Jetta ",
-      "vin": "3VWSW7BU6VM000148",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/060466548972.html",
       "year": 2027,
       "make": "Volkswagen",
       "model": "Jetta",
       "condition": "new",
-      "price": 34828.0,
+      "price": 37855.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Volkswagen Taos ",
+      "name": "2027 Volkswagen Jettain Maple Ridge",
+      "vin": "3VWSW7BU6VM000148",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/060466548972.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jettain Maple Ridge",
+      "condition": "new",
+      "price": 31955.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Volkswagen Taosin Maple Ridge",
       "vin": "3VVVD7B24VM010375",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/23aabfd95958.html",
       "year": 2027,
       "make": "Volkswagen",
-      "model": "Taos",
+      "model": "Taosin Maple Ridge",
       "condition": "new",
-      "price": 40952.0,
+      "price": 32880.0,
       "price_currency": "CAD"
     },
     {
@@ -1506,6 +1506,15 @@
       "condition": "new",
       "price": 34828.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Jetta Comfortlinein Maple Ridge",
+      "vin": "3VWSW7BU6VM020559",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/5e6bb4827e8e.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "condition": "new"
     },
     {
       "name": "New 2027 Volkswagen Jetta GLI Autobahn 2.0 l TSI 7 Speed Auto. FWD | Apple CarPlay | Safety Alert System |in Maple Ridge",
@@ -1672,6 +1681,33 @@
       "condition": "new",
       "price": 47778.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Volkswagen Tiguan Trendlinein Maple Ridge",
+      "vin": "3VVBR7RM2VM014386",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/64f093711362.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Tiguan Comfortlinein Maple Ridge",
+      "vin": "3VVER7RM1VM014621",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/64cba56597a7.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "new"
+    },
+    {
+      "name": "New 2027 Volkswagen Tiguan Trendlinein Maple Ridge",
+      "vin": "3VVBR7RM0VM016847",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/new/aa8812cb33b1.html",
+      "year": 2027,
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "condition": "new"
     }
   ]
 }
