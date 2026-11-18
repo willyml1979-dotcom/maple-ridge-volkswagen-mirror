@@ -1,7 +1,7 @@
 {
   "dealership": "Maple Ridge Volkswagen",
-  "generated_at": "2026-11-18T06:56:11",
-  "vehicle_count": 202,
+  "generated_at": "2026-11-18T15:20:37",
+  "vehicle_count": 203,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -18,9 +18,21 @@
       "condition": "used"
     },
     {
+      "name": "Subaru Forester 2014 for salein Maple Ridge",
+      "vin": "JF2SJHPC0EH502795",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/8831de0a60e5.html",
+      "condition": "used"
+    },
+    {
       "name": "Toyota RAV4 2015 for salein Maple Ridge",
       "vin": "2T3DFREV5FW253456",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/cc26e1caf64a.html",
+      "condition": "used"
+    },
+    {
+      "name": "MINI Cooper Hardtop 2016 for salein Maple Ridge",
+      "vin": "WMWXP5C52G2D14021",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/aa9e05dafb87.html",
       "condition": "used"
     },
     {
@@ -66,6 +78,12 @@
       "condition": "used"
     },
     {
+      "name": "Toyota RAV4 2019 for salein Maple Ridge",
+      "vin": "2T3Z1RFV2KW028621",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/a15352910c2c.html",
+      "condition": "used"
+    },
+    {
       "name": "Volkswagen Jetta 2019 for salein Maple Ridge",
       "vin": "3VWE57BU3KM265170",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/dbcb91e67557.html",
@@ -75,6 +93,18 @@
       "name": "Honda CR-V 2020 for salein Maple Ridge",
       "vin": "2HKRW2H96LH210176",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/612c7e5b7860.html",
+      "condition": "used"
+    },
+    {
+      "name": "Honda Civic Sedan 2020 for salein Maple Ridge",
+      "vin": "2HGFC2F7XLH026463",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/0439340af221.html",
+      "condition": "used"
+    },
+    {
+      "name": "Honda Pilot 2020 for salein Maple Ridge",
+      "vin": "5FNYF6H64LB505235",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/35a9dc30e42e.html",
       "condition": "used"
     },
     {
@@ -270,6 +300,12 @@
       "condition": "used"
     },
     {
+      "name": "Mazda CX-30 2024 for salein Maple Ridge",
+      "vin": "3MVDMBDM9RM707007",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/109e8851e9e4.html",
+      "condition": "used"
+    },
+    {
       "name": "Nissan Sentra 2024 for salein Maple Ridge",
       "vin": "3N1AB8CV4RY319105",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/422333f29741.html",
@@ -324,9 +360,39 @@
       "condition": "used"
     },
     {
+      "name": "Kia Seltos 2025 for salein Maple Ridge",
+      "vin": "KNDEUCAA4S7795440",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/41d849222c18.html",
+      "condition": "used"
+    },
+    {
+      "name": "Mazda CX-5 2025 for salein Maple Ridge",
+      "vin": "JM3KFBCL9S0747793",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/923582c98442.html",
+      "condition": "used"
+    },
+    {
       "name": "Mitsubishi Eclipse Cross 2025 for salein Maple Ridge",
       "vin": "JA4ATVAAXSZ613994",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/a28b4bef31d2.html",
+      "condition": "used"
+    },
+    {
+      "name": "Mitsubishi Outlander 2025 for salein Maple Ridge",
+      "vin": "JA4J4VA80SZ619877",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/5b0f0e0875f5.html",
+      "condition": "used"
+    },
+    {
+      "name": "Mitsubishi Outlander PHEV 2025 for salein Maple Ridge",
+      "vin": "JA4T5VA93SZ624165",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/aa41f814b9e5.html",
+      "condition": "used"
+    },
+    {
+      "name": "Nissan Kicks Play 2025 for salein Maple Ridge",
+      "vin": "3N1CP5CV0SL490459",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/6c143658b74d.html",
       "condition": "used"
     },
     {
@@ -348,6 +414,12 @@
       "condition": "used"
     },
     {
+      "name": "Toyota RAV4 2025 for salein Maple Ridge",
+      "vin": "2T3R1RFV5SC558731",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/80578472df20.html",
+      "condition": "used"
+    },
+    {
       "name": "Volkswagen Atlas Cross Sport 2025 for salein Maple Ridge",
       "vin": "1V2BE2CA8SC214972",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/8f5a70274097.html",
@@ -357,6 +429,30 @@
       "name": "Volkswagen Jetta GLI 2025 for salein Maple Ridge",
       "vin": "3VW2T7BU8SM092304",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/8ec227c015ac.html",
+      "condition": "used"
+    },
+    {
+      "name": "Volkswagen Taos 2025 for salein Maple Ridge",
+      "vin": "3VV4C7B20SM028012",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/0743834e2cf2.html",
+      "condition": "used"
+    },
+    {
+      "name": "Genesis G70 2026 for salein Maple Ridge",
+      "vin": "KMTG34SC4TU167576",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/da1e304c9e2c.html",
+      "condition": "used"
+    },
+    {
+      "name": "Hyundai Tucson 2026 for salein Maple Ridge",
+      "vin": "KM8JBCDEXTU465349",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/bc6f24f85c1e.html",
+      "condition": "used"
+    },
+    {
+      "name": "Kia Sportage 2026 for salein Maple Ridge",
+      "vin": "KNDPUCDF9T7482479",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/7dec358f9757.html",
       "condition": "used"
     },
     {
@@ -513,17 +609,6 @@
       "condition": "used"
     },
     {
-      "name": "2007 Honda Fit ",
-      "vin": "TF087J2NH624P",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/16339fc3c736.html",
-      "year": 2007,
-      "make": "Honda",
-      "model": "Fit",
-      "condition": "used",
-      "price": 8138.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2011 Chevrolet Cruze LT Turbo w/1SAin Maple Ridge",
       "vin": "1G1PF5S98B7197332",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/dc3ee1724df5.html",
@@ -542,17 +627,6 @@
       "condition": "used"
     },
     {
-      "name": "2014 Subaru Forester ",
-      "vin": "JF2SJHPC0EH502795",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/8831de0a60e5.html",
-      "year": 2014,
-      "make": "Subaru",
-      "model": "Forester",
-      "condition": "used",
-      "price": 16638.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2015 Toyota RAV4 Limitedin Maple Ridge",
       "vin": "2T3DFREV5FW253456",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/d2ff1c5c2931.html",
@@ -562,21 +636,21 @@
       "condition": "used"
     },
     {
+      "name": "2016 MINI Cooper Hardtopin Maple Ridge",
+      "vin": "WMWXP5C52G2D14021",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/45be92ed1b0f.html",
+      "year": 2016,
+      "make": "MINI",
+      "model": "Cooper",
+      "condition": "used"
+    },
+    {
       "name": "2016 Volkswagen Golf GTI | Backup Camera | Cruise Control | Bluetooth | Heated Seatsin Maple Ridge",
       "vin": "3VWYT7AU9GM022894",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/ebad04165cac.html",
       "year": 2016,
       "make": "Volkswagen",
       "model": "Golf GTI",
-      "condition": "used"
-    },
-    {
-      "name": "2017 Toyota RAV4 Hybrid | Backup Camera | Cruise Control | Bluetooth | Heated Seatsin Maple Ridge",
-      "vin": "JTMRJREV5HD089713",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/ab53cfa5e07a.html",
-      "year": 2017,
-      "make": "Toyota",
-      "model": "RAV4 Hybrid",
       "condition": "used"
     },
     {
@@ -616,17 +690,6 @@
       "condition": "used"
     },
     {
-      "name": "2019 Toyota RAV4 ",
-      "vin": "2T3Z1RFV2KW028621",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/a15352910c2c.html",
-      "year": 2019,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "used",
-      "price": 29438.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 Volkswagen Jetta Highline | Backup Camera | Cruise Control | Heated Seats | Blind Spot Assistin Maple Ridge",
       "vin": "3VWE57BU3KM265170",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/6ed91df89b6e.html",
@@ -643,28 +706,6 @@
       "make": "Honda",
       "model": "Civic",
       "condition": "used"
-    },
-    {
-      "name": "2020 Honda Civic Sedan ",
-      "vin": "2HGFC2F74LH007987",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/0439340af221.html",
-      "year": 2020,
-      "make": "Honda",
-      "model": "Civic Sedan",
-      "condition": "used",
-      "price": 20749.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Honda Pilot ",
-      "vin": "5FNYF6H64LB505235",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/35a9dc30e42e.html",
-      "year": 2020,
-      "make": "Honda",
-      "model": "Pilot",
-      "condition": "used",
-      "price": 29638.0,
-      "price_currency": "CAD"
     },
     {
       "name": "2020 Hyundai Accent Preferred | Low Mileage! | Back Up Camera | Bluetooth | Heated Seatsin Maple Ridge",
@@ -861,15 +902,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Kia Sorento LX+ | Backup Camera | Lane Departure | Cruise Control | Heated Seats | Bluetoothin Maple Ridge",
-      "vin": "5XYRGDLC5NG096449",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/dec5c799e219.html",
-      "year": 2022,
-      "make": "Kia",
-      "model": "Sorento",
-      "condition": "used"
-    },
-    {
       "name": "2023 Acura MDX ",
       "vin": "5J8YE1H82PL801902",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/5cb81589c76d.html",
@@ -908,6 +940,15 @@
       "condition": "used"
     },
     {
+      "name": "2024 Mazda CX-30 GTin Maple Ridge",
+      "vin": "3MVDMBDM9RM707007",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/2f40dc84b628.html",
+      "year": 2024,
+      "make": "Mazda",
+      "model": "CX-30",
+      "condition": "used"
+    },
+    {
       "name": "2024 Nissan Sentra SV | Backup Camera | Apple CarPlay | Blind Spot Assist | Adaptive Cruise Controlin Maple Ridge",
       "vin": "3N1AB8CV4RY319105",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/c0838a029c1a.html",
@@ -926,59 +967,6 @@
       "condition": "used"
     },
     {
-      "name": "2025 Kia Seltos EX | Apple CarPlay | Backup Camera | Blind Spot Assist | Keyless Entry | Lane Departurein Maple Ridge",
-      "vin": "KNDEUCAA4S7795440",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/a695423c1838.html",
-      "year": 2025,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "used"
-    },
-    {
-      "name": "2025 Kia Seltos ",
-      "vin": "KNDEUCAA4S7795440",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/41d849222c18.html",
-      "year": 2025,
-      "make": "Kia",
-      "model": "Seltos",
-      "condition": "used",
-      "price": 25638.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Mazda CX-5 ",
-      "vin": "JM3KFBCL9S0747793",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/923582c98442.html",
-      "year": 2025,
-      "make": "Mazda",
-      "model": "CX-5",
-      "condition": "used",
-      "price": 31138.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Mitsubishi Outlander ",
-      "vin": "JA4J4VA80SZ619877",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/5b0f0e0875f5.html",
-      "year": 2025,
-      "make": "Mitsubishi",
-      "model": "Outlander",
-      "condition": "used",
-      "price": 39138.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Mitsubishi Outlander PHEV ",
-      "vin": "JA4T5VA93SZ624165",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/aa41f814b9e5.html",
-      "year": 2025,
-      "make": "Mitsubishi",
-      "model": "Outlander PHEV",
-      "condition": "used",
-      "price": 46748.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Nissan Kicks Play SV | Apple CarPlay | Lane Departure | Blind Spot Assist | Backup Camerain Maple Ridge",
       "vin": "3N1CP5CV0SL490459",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/a3f906b22799.html",
@@ -986,17 +974,6 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used"
-    },
-    {
-      "name": "2025 Nissan Kicks Play ",
-      "vin": "3N1CP5CV0SL490459",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/6c143658b74d.html",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "used",
-      "price": 21638.0,
-      "price_currency": "CAD"
     },
     {
       "name": "2025 Nissan Sentra SV | Remote Start | Backup Camera | Lane Departure | Adaptive Cruise Controlin Maple Ridge",
@@ -1008,17 +985,6 @@
       "condition": "used"
     },
     {
-      "name": "2025 Toyota RAV4 ",
-      "vin": "2T3R1RFV5SC558731",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/80578472df20.html",
-      "year": 2025,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "used",
-      "price": 39638.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Volkswagen Jetta GLI Autobahnin Maple Ridge",
       "vin": "3VW2T7BU8SM092304",
       "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/a68ccef19259.html",
@@ -1028,48 +994,13 @@
       "condition": "used"
     },
     {
-      "name": "2025 Volkswagen Taos ",
-      "vin": "3VVUC7B20SM074083",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/0743834e2cf2.html",
-      "year": 2025,
+      "name": "2026 Volkswagen Taos Comfortline Black Editionin Maple Ridge",
+      "vin": "3VV2C7B23TM023461",
+      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/2624c81138df.html",
+      "year": 2026,
       "make": "Volkswagen",
       "model": "Taos",
-      "condition": "used",
-      "price": 28638.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Genesis G70 ",
-      "vin": "KMTG34SC4TU167576",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/da1e304c9e2c.html",
-      "year": 2026,
-      "make": "Genesis",
-      "model": "G70",
-      "condition": "used",
-      "price": 46748.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Hyundai Tucson ",
-      "vin": "KM8JBCDEXTU465349",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/bc6f24f85c1e.html",
-      "year": 2026,
-      "make": "Hyundai",
-      "model": "Tucson",
-      "condition": "used",
-      "price": 33745.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Kia Sportage ",
-      "vin": "KNDPUCDF9T7482479",
-      "url": "https://willyml1979-dotcom.github.io/maple-ridge-volkswagen-mirror/used/7dec358f9757.html",
-      "year": 2026,
-      "make": "Kia",
-      "model": "Sportage",
-      "condition": "used",
-      "price": 34538.0,
-      "price_currency": "CAD"
+      "condition": "used"
     },
     {
       "name": "2026 Volkswagen Atlas Cross Sportin Maple Ridge",
